@@ -11,6 +11,7 @@ Taxes.taxRate = 0.06; // 住民税率
 var OpenSpending = OpenSpending || {};
 
 OpenSpending.identifier = 'budget_tsucity_2013';
+OpenSpending.identifieri = 'budget_tsucity_2013_i';
 OpenSpending.year = '2013';
 
 OpenSpending.Styles = OpenSpending.Styles || {};
