@@ -19,7 +19,7 @@ OpenSpending.Styles = OpenSpending.Styles || {};
 OpenSpending.Styles.Cofog = {
 
   /* tsu cofog */
-'1': { icon: 'icons/machi.svg', color: '#C75746', bcolor: '#935B3B' },
+'1': { icon: 'icons/machi.svg', color: '#C75746', bcolor: '#935B3B' , description: '一般総務費、企画費など' },
 '101': { icon: 'icons/publicaffairs.svg', color: '#C75746', bcolor: '#935B3B' },
 '102': { icon: 'icons/civilian-action.svg', color: '#C75746', bcolor: '#935B3B' },
 '2': { icon: 'icons/c_syoubou_bousai.svg', color: '#C75746', bcolor: '#935B3B' },
